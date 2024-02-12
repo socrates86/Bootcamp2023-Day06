@@ -1,0 +1,4 @@
+C:\Projects\Bootcamp2023\Day06\Example2\obj\Debug\net7.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Bootcamp2023\Day06\Example2\obj\Debug\net7.0\Example2.AssemblyInfoInputs.cache
+C:\Projects\Bootcamp2023\Day06\Example2\obj\Debug\net7.0\Example2.AssemblyInfo.cs
+C:\Projects\Bootcamp2023\Day06\Example2\obj\Debug\net7.0\Example2.csproj.CoreCompileInputs.cache
